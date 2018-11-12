@@ -1,0 +1,3 @@
+const formatName = user => user.fileName + ' ' + user.lastName
+
+const Welcome = ({ user }) =>
